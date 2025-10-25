@@ -1,0 +1,227 @@
+*{
+    margin:0;
+}
+body{
+    background-color:rgb(119, 123, 124);
+    font-family:Garamond, serif;
+    font-size:15px;
+}
+.container{
+    max-width:1500px;
+    background-color:rgb(188, 221, 244);
+    margin:0 auto;
+    padding:25px;
+}
+.image{
+    width:200px;
+    height:175px;
+    border:2px solid white;
+    border-radius:50%;
+    float:left;
+}
+.bio{
+    float:left;
+    padding:55px;
+}
+h1,h2,h3,h4,h5,h6{
+    color:rgb(37, 177, 237);
+}
+
+/* Header contact */
+.header-contact{
+    float:right;
+}
+.header-contact a{
+    text-decoration:none;
+    padding:25px;
+    font-weight:solid bold;
+    color:teal;
+}
+.header-contact a:hover{
+    color:tomato;
+    text-decoration:underline;
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    width:100%;
+    border:solid black 3px;
+    margin:25px auto;
+    border-bottom:none;
+}
+
+/* personal contact */
+.personal-info{
+    margin-left:100px;
+}
+#personal-info{
+
+}
+.content{
+    font-size:20px;
+
+}
+.left-div{
+    width:30%;
+    float:left
+
+}
+.right-div{
+    width:70%;
+    float:left;
+
+}
+.common-hr{
+    border: rgb(163, 156, 156) 0.1px;
+    width:100%;
+    margin:20px auto;
+    border-bottom:none;
+}
+
+/* work experience */
+#experience{
+
+}
+.content2{
+    font-size:20px;
+
+}
+.work1{
+    width:30%;
+    float:left;
+}
+.work2{
+    width:70%;
+    float:left;
+}
+.work3{
+    width:70%;
+    float:right;
+}
+.work4{
+    width:70%;
+    float:right;
+}
+
+/* key skill */
+#skill{
+    
+}
+.skill-content{
+    font-size:20px;
+
+}
+.key-skill{
+    width:30%;
+    float:left;
+}
+.key-skill1{
+    width:70%;
+    float:right;
+}
+.key-skill2{
+    width:70%;
+    float:right;
+}
+.key-skill3{
+    width:70%;
+    float:right;
+}
+
+/* Education */
+#Education{
+    
+}
+.student{
+    font-size:20px;
+
+}
+.student1{
+    width:30%;
+    float:left;
+}
+.student2{
+    width:70%;
+    float:right;
+}
+.student2 a:hover{
+    color:tomato;
+}
+
+/* Honers and Awards */
+#Honers-and-Awards{
+    
+}
+.Honers{
+    font-size:20px;
+
+}
+.awards{
+    width:30%;
+    float:left;
+}
+.awards1{
+    width:70%;
+    float:right;
+}
+.awards2{
+    width:70%;
+    float:right;
+}
+
+/* Reference */
+#Honers-and-Awards{
+    
+}
+.Reference{
+
+}
+.Reference1{
+    font-size:20px;
+}
+.Reference2{
+    width:30%;
+    float:left;
+}
+.Reference3{
+    width:35%;
+    float:left;
+}
+.Reference3 a:hover{
+    color:tomato;
+}
+.Reference4{
+    width:35%;
+    float:left;
+}
+.Reference4 a:hover{
+    color:tomato;
+}
+
+/* footer contact */
+.social-media{
+    background-color:rgb(188, 221, 244);
+    height:200px;
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+.btn{
+    border:none;
+    font-size:25px;
+    border-radius:5px;
+    padding:5px;
+    margin:2px;
+}
+.btn:hover{
+    background-color:rgb(19, 3, 12);
+}
+.develop{
+    color:red;
+    text-align:center;
+}
+
+
